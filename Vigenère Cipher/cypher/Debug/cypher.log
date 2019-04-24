@@ -1,0 +1,5 @@
+﻿  cypher.cpp
+c:\users\akhta\desktop\cypher\cypher\cypher.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\akhta\desktop\cypher\cypher\cypher.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\akhta\desktop\cypher\cypher\cypher.cpp(128): warning C4129: 'c': unrecognized character escape sequence
+  cypher.vcxproj -> C:\Users\akhta\Desktop\cypher\Debug\cypher.exe
