@@ -1,0 +1,11 @@
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\bin\Debug\HTMLparser.exe.config
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\bin\Debug\HTMLparser.exe
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\bin\Debug\HTMLparser.pdb
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\bin\Debug\HTMLparser.xml
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\obj\Debug\HTMLparser.vbprojAssemblyReference.cache
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\obj\Debug\HTMLparser.Resources.resources
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\obj\Debug\HTMLparser.vbproj.GenerateResource.cache
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\obj\Debug\HTMLparser.vbproj.CoreCompileInputs.cache
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\obj\Debug\HTMLparser.exe
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\obj\Debug\HTMLparser.xml
+C:\Users\akhta\Desktop\HTMLparser\HTMLparser\obj\Debug\HTMLparser.pdb
