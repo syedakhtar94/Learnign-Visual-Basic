@@ -1,0 +1,11 @@
+C:\Users\akhta\source\repos\StringCheck\StringCheck\bin\Debug\StringCheck.exe.config
+C:\Users\akhta\source\repos\StringCheck\StringCheck\bin\Debug\StringCheck.exe
+C:\Users\akhta\source\repos\StringCheck\StringCheck\bin\Debug\StringCheck.pdb
+C:\Users\akhta\source\repos\StringCheck\StringCheck\bin\Debug\StringCheck.xml
+C:\Users\akhta\source\repos\StringCheck\StringCheck\obj\Debug\StringCheck.vbprojAssemblyReference.cache
+C:\Users\akhta\source\repos\StringCheck\StringCheck\obj\Debug\StringCheck.Resources.resources
+C:\Users\akhta\source\repos\StringCheck\StringCheck\obj\Debug\StringCheck.vbproj.GenerateResource.cache
+C:\Users\akhta\source\repos\StringCheck\StringCheck\obj\Debug\StringCheck.vbproj.CoreCompileInputs.cache
+C:\Users\akhta\source\repos\StringCheck\StringCheck\obj\Debug\StringCheck.exe
+C:\Users\akhta\source\repos\StringCheck\StringCheck\obj\Debug\StringCheck.xml
+C:\Users\akhta\source\repos\StringCheck\StringCheck\obj\Debug\StringCheck.pdb
